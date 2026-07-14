@@ -9,3 +9,5 @@
     -  Private cloud infrastructures are dedicated to a single organization and can be hosted on-premises or by a service provider.
 - ### Hybrid Cloud:
     -  A hybrid cloud is the combination of public and private clouds that allows data and applications to move between them. 
+### Data Centres:
+- Data centres are the backbone of the cloud. Data centre is a centralized facility equipped with computing resources such as servers, storage systems, networking equipment and cooling infrastructure
