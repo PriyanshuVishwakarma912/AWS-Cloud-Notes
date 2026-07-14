@@ -10,4 +10,4 @@
 - ### Hybrid Cloud:
     -  A hybrid cloud is the combination of public and private clouds that allows data and applications to move between them. 
 ### Data Centres:
-- Data centres are the backbone of the cloud. Data centre is a centralized facility equipped with computing resources such as servers, storage systems, networking equipment and cooling infrastructure
+- Data centres are the backbone of the cloud. Data centre is a centralized facility equipped with computing resources such as servers, storage systems, networking equipment and cooling infrastructure that is used for the delivery of cloud services over the internet
