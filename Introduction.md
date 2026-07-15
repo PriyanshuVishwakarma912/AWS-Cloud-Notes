@@ -17,3 +17,13 @@
 - Data centres are the backbone of the cloud. A data centre is a centralized facility equipped with computing resources such as servers, storage systems, networking equipment, and cooling infrastructure that is used for the delivery of cloud services over the internet.
 ### Cloud works on " PAY AS YOU GO MODEL " or "ON DEMAND SERVICE" that means you can only pay for the resources that service to use for that particular amount of time.
 Note: AWS is the biggest cloud provider and it has the largest market share.
+---
+### Concept Of Virtualization:
+- Virtualization allows you to split one physical computer into multiple virtual computer
+### Hypervisor:
+- The Hypervisor is a smart software that divides the physical computer resources and runs the virtual computers.
+### Capital Expenditure(capex) and Operational Expenditure(opex):
+- Capex: It is a big and one time investment to buy or own something.
+    - Ex: Buying physical servers, network devices etc.
+- Opex: Small and repetitive expenses to use something where we can use and pay for that.
+    - Ex: Electricity bills, Internet charges, monthly cloud services rent, maintenance charges etc.  
