@@ -13,10 +13,26 @@
 - ### Hybrid Cloud:
     -  A hybrid cloud is the combination of public and private clouds that allows data and applications to move between them.
 ---
-### Data Centres:
+### Data Centres
 - Data centres are the backbone of the cloud. A data centre is a centralized facility equipped with computing resources such as servers, storage systems, networking equipment, and cooling infrastructure that is used for the delivery of cloud services over the internet.
-### Region: A region is a large geographical area where a cloud provider has multiple data centers. A region is located in a country or area & each region contains miltiple availability zones(AZ).
-### Availability Zones(AZ): 
+### Region
+- A region is a large geographical area where a cloud provider has multiple data centers.
+- A region is located in a country or area & each region contains miltiple availability zones(AZ).
+### Availability Zones(AZ)
+- An availability zone(AZ) is one or more data center inside a region that works independently.
+- Each availability zone(AZ) has it's own power, cooling and network.
+- Availability zones(AZ) are connected with high speed private links.
+- If one availability zone(AZ) fails others keep running.
+### Local Zones
+- A local zone is a small extension of a region that placed very close to end users in the city.
+- Used for ultra low latency.
+- Connected to a parent region.
+
+- Overall:
+    - Region: Where your cloud lives
+    - Availability Zone: How safely it runs
+    - Local Zone: How fast users can access it
+--- 
 ### Cloud works on " PAY AS YOU GO MODEL " or "ON DEMAND SERVICE" that means you can only pay for the resources that service to use for that particular amount of time.
 Note: AWS is the biggest cloud provider and it has the largest market share.
 ---
