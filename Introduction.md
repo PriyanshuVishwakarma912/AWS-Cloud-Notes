@@ -15,6 +15,8 @@
 ---
 ### Data Centres:
 - Data centres are the backbone of the cloud. A data centre is a centralized facility equipped with computing resources such as servers, storage systems, networking equipment, and cooling infrastructure that is used for the delivery of cloud services over the internet.
+### Region: A region is a large geographical area where a cloud provider has multiple data centers. A region is located in a country or area & each region contains miltiple availability zones(AZ).
+### Availability Zones(AZ): 
 ### Cloud works on " PAY AS YOU GO MODEL " or "ON DEMAND SERVICE" that means you can only pay for the resources that service to use for that particular amount of time.
 Note: AWS is the biggest cloud provider and it has the largest market share.
 ---
