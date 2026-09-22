@@ -5,6 +5,12 @@
 ---
 ### What is Cloud Computing?
 - Cloud computing is the on-demand delivery of computing services, including servers, storage, databases, networking, and software over the internet. Instead of managing physical hardware locally, users rent these resources from a cloud provider and typically pay only for what they use.
+---
+### Why companies moved to cloud?
+- No huge upfront cost for hardware
+- Scale up or down in minutes, not months
+- Pay only for what you use
+---
 ### Types of Cloud.
 - ### Public Cloud:
     -  Public Cloud is fully owned, operated, and maintained by a third-party provider. These resources are delivered over the public internet and shared among multiple organizations. Public clouds are AWS, Microsoft Azure, and GCP.
@@ -40,8 +46,21 @@ Note: AWS is the biggest cloud provider and it has the largest market share.
 - Virtualization allows you to split one physical computer into multiple virtual computer
 ### Hypervisor:
 - The Hypervisor is a smart software that divides the physical computer resources and runs the virtual computers.
+---
 ### Capital Expenditure(capex) and Operational Expenditure(opex):
 - Capex: It is a big and one time investment to buy or own something.
     - Ex: Buying physical servers, network devices etc.
 - Opex: Small and repetitive expenses to use something where we can use and pay for that.
-    - Ex: Electricity bills, Internet charges, monthly cloud services rent, maintenance charges etc.  
+    - Ex: Electricity bills, Internet charges, monthly cloud services rent, maintenance charges etc.
+---
+## Cloud Service Models [IaaS, PaaS, SaaS]
+### Infrastructure as a Service (IaaS):
+- IaaS means you rent IT infrastructure from the cloud like virtual servers, storage, and networking, instead of buying and maintaining physical hardware.
+- In IaaS, the cloud provider manages the hardware and you control the software.
+- You manage:- App, Data, Runtime, OS.
+- Cloud Provider Manage:- Servers, Storage, Network
+- IaaS is best if you want full control.
+Example: AWS EC2
+### Platform as a Service (PaaS):
+- 
+
