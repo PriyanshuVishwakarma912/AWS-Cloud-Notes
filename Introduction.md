@@ -62,5 +62,20 @@ Note: AWS is the biggest cloud provider and it has the largest market share.
 - IaaS is best if you want full control.
 Example: AWS EC2
 ### Platform as a Service (PaaS):
-- 
+- PaaS means the cloud provider gives you a ready made platform and you only build, run and deploy applications. We cannot manage servers and operating system.
+- You manage:- Data and Application code.
+- Cloud Provide Manage:- Runtime, OS, Servers, Storage, Network.
+Examples: AWS Elastic Beanstalk, Heroku.
 
+### Software as a Service (SaaS):
+- SaaS means ready to use software delivered over the internet. You don't need to install, manage, and maintain anything. You just open the app, log in and start using it.
+- In SaaS we can only use the ready made software.
+Example: Gmail, Facebook, Google Workspace.
+---
+### Pricing Models:
+- AWS follows a flexible, usage based pricing
+- (a) Pay as you Go (On Demand Pricing):
+      - 
+- (b) Resserved Instances:
+- (c) Spot Instances:
+- (d) Savings Plan:
